@@ -1,0 +1,78 @@
+.btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
+    background-color: #181818;
+    opacity: 90%;
+}
+.btn-dark, .btn-dark:hover, .btn-dark:active, .btn-dark:visited {
+    background-color: #333333;
+    height: 10%;
+}
+body, html {
+    height: 100%;
+    font-family:'Karla', sans-serif;
+}
+.semua .ukuran{
+    background-color: #0A0000;
+    width: 375px;
+    height: 812px;
+}
+.header{
+    background-color: #CC964E;
+    width: 375px;
+    height: 80px;
+}
+.header img{
+    width: 25px;
+    height: 25px;
+}
+.header p{
+    font-size: 24px;
+    margin: 0;
+    color: white;
+}
+.yaitu{
+    margin-left: 17.5%;
+}
+h5{
+    font-size: 24px;
+    color: white;
+    margin: 0;
+}
+.Orderloc{
+    width: 346px;
+    height: 211px;
+    margin-top: 14px;
+}
+.Orderloc p{
+    margin-left: 5px;
+    width: 258px;
+    height: 32px;
+    font-size: 14px;
+    color: white;
+}
+
+label{
+    color: white;
+}
+
+input[type=text]::placeholder{
+    color: #AEAEAE;
+    
+}
+input[type=text]{
+    color: white;
+    background-color: #343434;
+    border-color: #343434;
+}
+.bg-gray{
+    background-color: #343434;
+    border-color: #343434;
+}
+h1{
+    font-size: 36px;
+}
+button[type=button]{
+    background-color: #CC964E;
+    width: 200px;
+    height: 64px;
+    border-radius: 15px;
+}

@@ -1,0 +1,92 @@
+.btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
+    background-color: #181818;
+    opacity: 90%;
+}
+.btn-dark, .btn-dark:hover, .btn-dark:active, .btn-dark:visited {
+    background-color: #333333;
+    height: 10%;
+}
+body, html {
+    height: 100%;
+    font-family:'Karla', sans-serif;
+    font-style: normal;
+}
+
+.semua .ukuran{
+    background-color: #0A0000;
+    width: 375px;
+    height: 100%;
+}
+.welcome{
+    width: 375px;
+    height: 77px;
+    
+}
+h1{
+    color: white;
+    font-size: 20px;
+}
+img{
+    width: 94.4%;
+    height: 100%;
+}
+.choosekang{
+    width: 94.4%;
+    height: 269px;
+    background-color: #414141;
+    margin-bottom: 28px;
+}
+.History{
+    margin-bottom: 28px;
+}
+.ccd{
+    width: 95px;
+    height: 194px;
+    background-color: #CC964E;
+    border-radius: 15px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
+.choosedesc{
+    height: 55px;
+    font-size: 20px;
+    margin-left: 27px;
+}
+.choosedesc p{
+    height: 55px;
+    margin-bottom: 0;
+}
+.choosekang{
+    background-color: #555555;
+}
+.ccdimg{
+    width: 80px;
+    height: 64px;
+}
+.ccd p{
+    padding-top: 10px;
+    color: white;
+    font-size: 36px;
+}
+u{
+    color: white;
+    text-decoration-thickness: 1%;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: none;
+}
+.map{
+    width: 94.4%;
+    height: 224px;
+    background-color: #414141;
+    margin-bottom: 28px;
+}
+.mapimg{
+    margin-left: 5.7%;
+}

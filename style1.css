@@ -1,0 +1,86 @@
+.btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
+    background-color: #181818;
+    opacity: 90%;
+}
+.btn-dark, .btn-dark:hover, .btn-dark:active, .btn-dark:visited {
+    background-color: #333333;
+    height: 10%;
+}
+body, html {
+    height: 100%;
+}
+.content {
+    background-color: #121515;
+}
+.semua {
+    background-image: url(Background.png);
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: center;
+    background-size: 375px 812px;
+    height: 100%;
+}
+.semua .ukuran{
+    width: 375px;
+    height: 100%;
+}
+input[type=email],input[type=password],input[type=text]{
+    background: #1A1E1E;
+    border-color: black;
+    color: white;
+}
+label{
+    font-size: 14px;
+    color: #F9FAFB;
+    font-family:'Karla', sans-serif;
+}
+.content {
+    margin-top: 8%;
+    color: white;
+}
+.content h1 {
+    font-size: 24px;
+    font-weight: bold;
+    font-family:'Karla', sans-serif;
+    padding-left: 5%;
+    padding-bottom: 1%;
+}
+.content h3 {
+    font-size: 16px;
+    font-weight: 300;
+    padding-left: 5%;
+    font-family:'Karla', sans-serif;
+}
+.content .btn-primary {
+    width: 375px;
+    height: 55px;
+    font-size: 18px;
+    font-weight: 500;
+    font-family:'Karla', sans-serif;
+    border-radius: 0%;
+}
+.content {
+    padding-top:20%;
+}
+.buttons .bottom  {
+    margin-top: 46%;
+    padding: 0px;
+}
+.buttons .btn-dark {
+    width: 375px;
+    height: 55px;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    justify-content: center;
+    font-family:'Karla', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    border-radius: 0%;
+}
+.password{
+    text-decoration: none;
+    color: white;
+}
+.bottom li {
+    list-style: none;
+}

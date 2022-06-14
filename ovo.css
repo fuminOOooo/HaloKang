@@ -1,0 +1,177 @@
+.btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
+    background-color: #181818;
+    opacity: 90%;
+}
+.btn-dark, .btn-dark:hover, .btn-dark:active, .btn-dark:visited {
+    background-color: #333333;
+    height: 10%;
+}
+.btn-outline-light, .btn-outline-light:hover, .btn-outline-light:active, .btn-outline-light:visited, .btn-outline-light {
+    background-color: #181818;
+}
+body, html {
+    height: 100%;
+    font-family:'Karla', sans-serif;
+}
+.semua {
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: center;
+    background-size: 375px 812px;
+    height: 100%;
+}
+.password{
+    text-decoration: none;
+    color: white;
+}
+.bottom li {
+    list-style: none;
+}
+.content a:link, a:visited, a:hover, a:active {
+    text-decoration: none;
+    color: white;
+}
+.semua .ukuran{
+    background-color: #181818;
+    width: 375px;
+    height: 100%;
+}
+.haha {
+    display: flex;
+    width: 375px;
+    padding: 4%;
+    background-color: #F2AA4c;
+}
+.haha img {
+    padding-top: 35%;
+    padding-left: 1%;
+}
+.hihi {
+    justify-content: center;
+    margin-left: 18%;
+    font-family:'Karla', sans-serif;
+    font-size: 24px;
+    font-weight: 500;
+    margin-top: 2%;
+    color: white;
+}
+.pb-4 text {
+    font-family:'Karla', sans-serif;
+    font-size: 24px;
+    margin-left: 10%;
+    color: white;
+}
+input[type=text]{
+    background: #343434;
+    border-color: black;
+    color: #FFFFFF;
+    padding: 5%;
+    height: 95%;
+    width: 90%;
+    margin-top: 5%;
+}
+.orderlocation button {
+    width: 100%;
+    color: #181818;
+}
+.bengkel button {
+    width: 100%;
+    text-align: left;
+    margin-bottom: 2%;
+}   
+.bengkel2 {
+    margin-top: 14%;
+}
+.bengkel2 button {
+    width: 100%;
+    text-align: left;
+    margin-bottom: 2%;
+}
+.bengkel3 {
+    margin-top: -2%;
+}
+.bengkel3 button b1 {
+    font-family:'Karla', sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+}
+.bengkel3 button {
+    width: 100%;
+    text-align: left;
+    margin-bottom: 2%;
+}
+.hihi2 img {
+    margin-left: 3%;
+}
+.hihi2 {
+    margin-top: 5%;
+    margin-left: 3%;
+    display: flex;
+}
+.hihi2text {
+    justify-content: center;
+    margin-left: 3%;
+    font-family:'Karla', sans-serif;
+    font-size: 24px;
+    font-weight: 500;
+    margin-top: 2%;
+    color: white;
+}
+.bengkel button b {
+    font-size: 24px;
+}
+.bengkel button:active, .bengkel button:hover {
+    color: white;
+}
+.bengkel2 button b {
+    font-size: 24px;
+}
+.bengkel2 button:active, .bengkel2 button:hover {
+    color: white;
+}
+.bengkel3 button b {
+    font-size: 24px;
+}
+.bengkel3 button:active, .bengkel3 button:hover {
+    color: white;
+}
+.kecilin {
+    font-size: 14px;
+    font-weight: 300;
+    margin-left: 3%;
+}
+.kecilin2 {
+    font-size: 14px;
+    font-weight: 300;
+    margin-left: 10%;
+}
+.potong {
+    margin-left: 5%;
+}
+.kecilin2 u {
+    color :#181818;
+}
+.bengkel3 u {
+    color :#181818;
+}
+.orderb {
+    margin-top: 4%;
+    color: #F2AA4c;
+}
+.orderb button {
+    background-color: #F2AA4c;
+    border-color: #181818;
+    width: 50%;
+    font-family:'Karla', sans-serif;
+    font-size: 36px;
+    font-weight: 500;
+    color: white;
+}
+.orderb button:active, .orderb button:hover {
+    background-color: #F2AA4c;
+    color: white;
+    border-color: #181818;
+}
+.bengkel3 img {
+    margin-top: -2%;
+}
